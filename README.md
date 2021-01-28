@@ -16,8 +16,11 @@ Example usage of script :
 Path is mandotory.
 
 .\compress-logs.ps1 -Path C:\TempLogs
+
 .\compress-logs.ps1 -Path C:\TempLogs -Filter log,txt,console >> Default is "log,txt"
+
 .\compress-logs.ps1 -Path C:\TempLogs -DaysBack 15 >> Default is 5
+
 .\compress-logs.ps1 -Path C:\TempLogs -ArchiveName LogArchive >> Default is "Logs"
 
 You can combine the parameters.  
