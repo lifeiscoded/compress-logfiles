@@ -1,5 +1,5 @@
-# powershell
-Powershell
+# Compress log files with Powershell 5.X
+
 Author : Bilgin Işık
 
 Attention : 
